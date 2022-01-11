@@ -1,0 +1,19 @@
+{
+  "name": "burundi",
+  "version": "1.0.0",
+  "description": "Burundi provinces with names, short names and coordiantes.",
+  "main": "lib/index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "burundi",
+    "provinces",
+    "coordinates"
+  ],
+  "author": "Janvier Uwiragiye",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
